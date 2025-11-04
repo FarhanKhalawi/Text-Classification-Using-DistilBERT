@@ -1,5 +1,4 @@
 # main.py
-from evaluate import evaluate
 
 def main():
     print("Welcome to the Text Classification Using DistilBERT project!")
