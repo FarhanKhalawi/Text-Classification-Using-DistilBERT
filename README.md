@@ -15,24 +15,6 @@ The model achieves high accuracy and outputs detailed evaluation metrics, includ
 
 ---
 
-## 📂 Project Structure
-
-Text-Classification-Using-DistilBERT/
-│
-├── Data/
-│ └── dataset.parquet # Dataset used for training and evaluation
-│
-├── train.ipynb # Jupyter Notebook for model training
-│
-├── evaluate.py # Script for evaluating and generating metrics
-│
-├── best_model.pt # Saved fine-tuned model weights
-│
-├── requirements.txt # Required dependencies
-│
-└── README.md # Project documentation
-
-
 
 
 
