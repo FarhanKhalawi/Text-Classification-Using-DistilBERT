@@ -1,0 +1,23 @@
+#sudo apt update
+#sudo apt install -y python3 python3-venv python3-pip
+#python3 -V                    # sanity check
+#python3 -m venv .venv
+#source .venv/bin/activate
+#python -m pip install --upgrade pip
+#pip install torch transformers evaluate rouge-score pandas
+#python -m pip install --upgrade pip setuptools wheel
+#pip install "bitsandbytes>=0.43.3" accelerate
+#pip install scikit-learn
+#pip install transformers datasets torch scikit-learn pandas matplotlib
+
+# pip install -r requirements.txt
+
+torch>=2.2.0
+transformers>=4.38.0
+datasets>=2.18.0
+pandas>=2.2.0
+numpy>=1.26.0
+matplotlib>=3.8.0
+scikit-learn>=1.4.0
+tqdm>=4.66.0
+pyarrow>=15.0.0
